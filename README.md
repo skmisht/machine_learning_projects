@@ -1,9 +1,9 @@
 # machine_learning_projects
 Machine Learning projects 
 
-# Project1: UK Road Accident - Predictions (Not completed yet): 
-UK Road Accident dataset 2016
-[Dataset](https://www.kaggle.com/bluehorseshoe/uk-2016-road-safety-data)
+# Project1:==>> Road accident predictions (Not completed yet): 
+[UK Road Accident dataset 2016](https://www.kaggle.com/bluehorseshoe/uk-2016-road-safety-data)
+
 Main Inspiration:
 - Predicting Accident injuries severity.
 - Are there patterns for accidents involving different road users?
@@ -11,10 +11,10 @@ Main Inspiration:
 
 
 
-# Project2: Internet's advertising analysis & Clicks Prediction
+# Project 2:==>> Internet's advertising analysis & Clicks Prediction
 The selected dataset represents the click metric from internet advertising industry. The click metric is the performance measurement in advertising that counts the number of interactions (consumers who interacted with the ads by click) on ads. Click on ads expresses the clicks over the total view on ads. This is the main performance metric by which companies measure the online campaign success for their products and services. Higher the clicks on ads mean higher the return on investment (ROI) and also mean that the business is targeting right consumer (audience) for its products and services.
 
-[Dataset](https://www.kaggle.com/fayomi/advertising)
+Dataset is collected from [Kaggle](https://www.kaggle.com/fayomi/advertising)
       
 Main Inspiration:
 1) Demographic analysis such as what kind of Age distributed per ad topics and also see what age is the most productive for campaign targeting for future campaign launch.
@@ -25,7 +25,7 @@ Main Inspiration:
 6) Clicks Prediction - ML classification integrate to Django  (in-progress)
 
 
-# Project 3: Pima Indian Diabetes ==>> Predict the onset of diabetes based on diagnostic measures.
+# Project 3:==>> Predict the onset of diabetes based on diagnostic measures.
 Dataset is collected from [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database), and originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective is to predict based on diagnostic measurements whether a patient has diabetes.
 
 Data description ==>> We have 768 instances and the following 8 attributes:
