@@ -1,7 +1,7 @@
 # machine_learning_projects
 Machine Learning projects 
 
-# Project1:==>> Road accident predictions (Not completed yet): 
+# Project1 => Road accident predictions [GitHub](https://github.com/skmisht/machine_learning_projects/blob/9011388f206f9f7479b3cfdf268cd5a0af6979f0/UK_RoadAccidents_preidctions/uk_road_accident_prediction.ipynb): 
 [UK Road Accident dataset 2016](https://www.kaggle.com/bluehorseshoe/uk-2016-road-safety-data)
 
 Main Inspiration:
