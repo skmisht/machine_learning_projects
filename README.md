@@ -25,7 +25,7 @@ Main Inspiration:
 6) Clicks Prediction - ML classification integrate to Django  (in-progress)
 
 
-# Project 3:==>> Predict the onset of diabetes based on diagnostic measures.
+# Project 3:=> Predict the onset of diabetes based on diagnostic measures [GitHub](https://github.com/skmisht/machine_learning_projects/blob/b4aaee6445c247c6e1a61008ddf355f94956935e/PimaIndian_Diabetes/diabetes_predictions.ipynb).
 Dataset is collected from [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database), and originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective is to predict based on diagnostic measurements whether a patient has diabetes.
 
 Data description ==>> We have 768 instances and the following 8 attributes:
