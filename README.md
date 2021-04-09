@@ -1,7 +1,7 @@
 # machine_learning_projects
 Machine Learning projects 
 
-# Project1 => Road accident predictions [GitHub](https://github.com/skmisht/machine_learning_projects/blob/9011388f206f9f7479b3cfdf268cd5a0af6979f0/UK_RoadAccidents_preidctions/uk_road_accident_prediction.ipynb): 
+# Project1 => Road accident predictions [GitHub](https://github.com/skmisht/machine_learning_projects/blob/9011388f206f9f7479b3cfdf268cd5a0af6979f0/UK_RoadAccidents_preidctions/uk_road_accident_prediction.ipynb).
 [UK Road Accident dataset 2016](https://www.kaggle.com/bluehorseshoe/uk-2016-road-safety-data)
 
 Main Inspiration:
@@ -11,7 +11,7 @@ Main Inspiration:
 
 
 
-# Project 2 => Internet's advertising analysis & Clicks Prediction [GitHub](https://github.com/skmisht/machine_learning_projects/blob/e52be7ddf138c08f30b7c889374c69061449701e/advertising_analysis/AdvertsingMain.ipynb)
+# Project 2 => Internet's advertising analysis & Clicks Prediction [GitHub](https://github.com/skmisht/machine_learning_projects/blob/e52be7ddf138c08f30b7c889374c69061449701e/advertising_analysis/AdvertsingMain.ipynb).
 The selected dataset represents the click metric from internet advertising industry. The click metric is the performance measurement in advertising that counts the number of interactions (consumers who interacted with the ads by click) on ads. Click on ads expresses the clicks over the total view on ads. This is the main performance metric by which companies measure the online campaign success for their products and services. Higher the clicks on ads mean higher the return on investment (ROI) and also mean that the business is targeting right consumer (audience) for its products and services.
 
 Dataset is collected from [Kaggle](https://www.kaggle.com/fayomi/advertising)
